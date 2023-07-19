@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "605301473187",
+    "project_id": "pan-edu-app",
+    "storage_bucket": "pan-edu-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605301473187:android:f5bd67d5656ae50e052416",
+        "android_client_info": {
+          "package_name": "com.harmani.paneduapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605301473187-is1kv253jtskvre4kth2j5qah3c7u7qr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATPLzWzOOv7W9mx908HE4KWzU7Ulk21Lg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605301473187-is1kv253jtskvre4kth2j5qah3c7u7qr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

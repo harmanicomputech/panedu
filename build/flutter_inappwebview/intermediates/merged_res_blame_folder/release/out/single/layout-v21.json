@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Harmani Technologies\\Desktop\\newpan\\build\\flutter_inappwebview\\intermediates\\merged_res\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Harmani Technologies\\.gradle\\caches\\transforms-3\\f3cd8ef64f4a2775b43980bc42926ed1\\transformed\\core-1.8.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harmani Technologies\\Desktop\\newpan\\build\\flutter_inappwebview\\intermediates\\merged_res\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Harmani Technologies\\.gradle\\caches\\transforms-3\\f3cd8ef64f4a2775b43980bc42926ed1\\transformed\\core-1.8.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harmani Technologies\\Desktop\\newpan\\build\\flutter_inappwebview\\intermediates\\merged_res\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Harmani Technologies\\.gradle\\caches\\transforms-3\\f3cd8ef64f4a2775b43980bc42926ed1\\transformed\\core-1.8.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harmani Technologies\\Desktop\\newpan\\build\\flutter_inappwebview\\intermediates\\merged_res\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Harmani Technologies\\.gradle\\caches\\transforms-3\\f3cd8ef64f4a2775b43980bc42926ed1\\transformed\\core-1.8.0\\res\\layout-v21\\notification_action.xml"
+    }
+]

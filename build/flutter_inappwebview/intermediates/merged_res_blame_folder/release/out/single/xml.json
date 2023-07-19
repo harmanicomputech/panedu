@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Harmani Technologies\\Desktop\\newpan\\build\\flutter_inappwebview\\intermediates\\merged_res\\release\\xml\\image_share_filepaths.xml",
+        "source": "C:\\Users\\Harmani Technologies\\.gradle\\caches\\transforms-3\\f74596dc7ad9b62550badda9cbde8aad\\transformed\\browser-1.4.0\\res\\xml\\image_share_filepaths.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harmani Technologies\\Desktop\\newpan\\build\\flutter_inappwebview\\intermediates\\merged_res\\release\\xml\\provider_paths.xml",
+        "source": "C:\\Users\\Harmani Technologies\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\flutter_inappwebview-5.7.2+3\\android\\src\\main\\res\\xml\\provider_paths.xml"
+    }
+]

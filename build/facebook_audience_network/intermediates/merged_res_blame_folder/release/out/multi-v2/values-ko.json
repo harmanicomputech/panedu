@@ -1,0 +1,82 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Harmani Technologies\\Desktop\\newpan\\build\\facebook_audience_network\\intermediates\\merged_res\\release\\values-ko\\values-ko.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Harmani Technologies\\.gradle\\caches\\transforms-3\\e4a4af4b29256ed355fcb14bb03aeeb3\\transformed\\jetified-play-services-basement-11.0.4\\res\\values-ko\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "179",
+                        "endOffsets": "464"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "179",
+                        "endOffsets": "280"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Harmani Technologies\\.gradle\\caches\\transforms-3\\b8c4800bd4e37b2d4a997fa580ab0c75\\transformed\\core-1.6.0\\res\\values-ko\\values-ko.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "285",
+                        "endColumns": "100",
+                        "endOffsets": "381"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Harmani Technologies\\Desktop\\newpan\\build\\facebook_audience_network\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ko\\values-ko.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Harmani Technologies\\.gradle\\caches\\transforms-3\\e4a4af4b29256ed355fcb14bb03aeeb3\\transformed\\jetified-play-services-basement-11.0.4\\res\\values-ko\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "179",
+                        "endOffsets": "464"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "179",
+                        "endOffsets": "280"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Harmani Technologies\\.gradle\\caches\\transforms-3\\b8c4800bd4e37b2d4a997fa580ab0c75\\transformed\\core-1.6.0\\res\\values-ko\\values-ko.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "285",
+                        "endColumns": "100",
+                        "endOffsets": "381"
+                    }
+                }
+            ]
+        }
+    ]
+}

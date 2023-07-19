@@ -1,0 +1,82 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Harmani Technologies\\Desktop\\newpan\\build\\facebook_audience_network\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-zh-rCN\\values-zh-rCN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Harmani Technologies\\.gradle\\caches\\transforms-3\\e4a4af4b29256ed355fcb14bb03aeeb3\\transformed\\jetified-play-services-basement-11.0.4\\res\\values-zh-rCN\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "289",
+                        "endColumns": "157",
+                        "endOffsets": "446"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "157",
+                        "endOffsets": "258"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Harmani Technologies\\.gradle\\caches\\transforms-3\\b8c4800bd4e37b2d4a997fa580ab0c75\\transformed\\core-1.6.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "263",
+                        "endColumns": "100",
+                        "endOffsets": "359"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Harmani Technologies\\Desktop\\newpan\\build\\facebook_audience_network\\intermediates\\merged_res\\release\\values-zh-rCN\\values-zh-rCN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Harmani Technologies\\.gradle\\caches\\transforms-3\\e4a4af4b29256ed355fcb14bb03aeeb3\\transformed\\jetified-play-services-basement-11.0.4\\res\\values-zh-rCN\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "289",
+                        "endColumns": "157",
+                        "endOffsets": "446"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "157",
+                        "endOffsets": "258"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Harmani Technologies\\.gradle\\caches\\transforms-3\\b8c4800bd4e37b2d4a997fa580ab0c75\\transformed\\core-1.6.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "263",
+                        "endColumns": "100",
+                        "endOffsets": "359"
+                    }
+                }
+            ]
+        }
+    ]
+}

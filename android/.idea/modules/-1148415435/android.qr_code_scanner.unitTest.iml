@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":qr_code_scanner:unitTest" external.linked.project.path="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/qr_code_scanner-1.0.1/android" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.type="sourceSet" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="4" platform="JVM 1.8" allPlatforms="JVM [1.8]" useProjectSettings="false">
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files" />
+        </compilerSettings>
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../../../build/qr_code_scanner/tmp/kotlin-classes/debugUnitTest" />
+          <option name="classpath" value="$USER_HOME$/.gradle/caches/transforms-3/3dedf170fd98764477ceb76ef85964ef/transformed/jetified-flutter_embedding_debug-1.0.0-45f6e009110df4f34ec2cf99f63cf73b71b7a420.jar;C:/Users/Harmani Technologies/.gradle/caches/transforms-3/2764cad6be84a811c7932932e86889c9/transformed/jetified-window-java-1.0.0-beta04-api.jar;C:/Users/Harmani Technologies/.gradle/caches/transforms-3/13a597b45b6d346d1971dd02330a5aa9/transformed/jetified-window-1.0.0-beta04-api.jar;C:/Users/Harmani Technologies/.gradle/caches/transforms-3/5992b09f62ccc9ee89ab1c6f995e6c4f/transformed/jetified-kotlinx-coroutines-android-1.5.2.jar;C:/Users/Harmani Technologies/.gradle/caches/transforms-3/7fa5e5a3ad62dfabf3b43b96096f2fd6/transformed/jetified-kotlinx-coroutines-core-jvm-1.5.2.jar;C:/Users/Harmani Technologies/.gradle/caches/transforms-3/e9d52f0d863594b1de13a1747c6fa8e2/transformed/jetified-kotlin-stdlib-jdk8-1.5.30.jar;C:/Users/Harmani Technologies/.gradle/caches/transforms-3/e74a1379d44e0fde96671f09db099d6a/transformed/jetified-kotlin-stdlib-jdk7-1.7.10.jar;C:/Users/Harmani Technologies/.gradle/caches/transforms-3/5ffea675709bef30cba3b5bc0d8edeb4/transformed/jetified-zxing-android-embedded-4.3.0-api.jar;C:/Users/Harmani Technologies/.gradle/caches/transforms-3/51ccb5e35436365031249714f98dc06c/transformed/appcompat-1.4.2-api.jar;C:/Users/Harmani Technologies/.gradle/caches/transforms-3/79b7c07d1e3beb20fd4e549b2fcb72ae/transformed/jetified-core-3.5.0.jar;C:/Users/Harmani Technologies/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common-java8/2.4.0/5b8f86fea035328fc9e8c660773037a3401ce25f/lifecycle-common-java8-2.4.0.jar;C:/Users/Harmani Technologies/.gradle/caches/transforms-3/d0b0b359719602ab3e9fb4b3f798b42a/transformed/fragment-1.3.6-api.jar;C:/Users/Harmani Technologies/.gradle/caches/transforms-3/1b422042ae2e228f360fd22cfc0e479f/transformed/jetified-activity-1.2.4-api.jar;C:/Users/Harmani Technologies/.gradle/caches/transforms-3/c7b57b0c9521e3e7abc67debd1b893cf/transformed/jetified-appcompat-resources-1.4.2-api.jar;C:/Users/Harmani Technologies/.gradle/caches/transforms-3/e052325ba0f01490e763ad569f941960/transformed/drawerlayout-1.0.0-api.jar;C:/Users/Harmani Technologies/.gradle/caches/transforms-3/8bb235ed95b70bcf6193afb98c927272/transformed/viewpager-1.0.0-api.jar;C:/Users/Harmani Technologies/.gradle/caches/transforms-3/82c37e20872ab4b4cadab25077c833e8/transformed/loader-1.0.0-api.jar;C:/Users/Harmani Technologies/.gradle/caches/transforms-3/044c942bb338c9fb67678dab3e6a1bd0/transformed/vectordrawable-animated-1.1.0-api.jar;C:/Users/Harmani Technologies/.gradle/caches/transforms-3/190cbc787e8cd894e9b27a508018e40b/transformed/vectordrawable-1.1.0-api.jar;C:/Users/Harmani Technologies/.gradle/caches/transforms-3/b3a2ae133df9d73ce94799815e40642d/transformed/customview-1.0.0-api.jar;C:/Users/Harmani Technologies/.gradle/caches/transforms-3/af31f195c06f34447cb3bc8bd3b4f603/transformed/core-1.7.0-api.jar;C:/Users/Harmani Technologies/.gradle/caches/transforms-3/721b037bf51cd35c61b0a8faccca3c77/transformed/lifecycle-runtime-2.4.0-api.jar;C:/Users/Harmani Technologies/.gradle/caches/transforms-3/ef6cc64c34bfa4c4bf524634ed4cd2fa/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1-api.jar;C:/Users/Harmani Technologies/.gradle/caches/transforms-3/53beddb275074c3c1b4c10b4aa1a93bb/transformed/lifecycle-livedata-2.0.0-api.jar;C:/Users/Harmani Technologies/.gradle/caches/transforms-3/8731735841218ec115a7cfd2674030ef/transformed/lifecycle-livedata-core-2.3.1-api.jar;C:/Users/Harmani Technologies/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.4.0/1fdb7349701e9cf2f0a69fc10642b6fef6bb3e12/lifecycle-common-2.4.0.jar;C:/Users/Harmani Technologies/.gradle/caches/transforms-3/4db5b6c55b786fe4333deb821c134f12/transformed/cursoradapter-1.0.0-api.jar;C:/Users/Harmani Technologies/.gradle/caches/transforms-3/55fe3b81c98c4e5029db130bf419387f/transformed/jetified-savedstate-1.1.0-api.jar;C:/Users/Harmani Technologies/.gradle/caches/transforms-3/19f7599f2b8c82d95eddf7ed170663cc/transformed/core-runtime-2.1.0-api.jar;C:/Users/Harmani Technologies/.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.1.0/b3152fc64428c9354344bd89848ecddc09b6f07e/core-common-2.1.0.jar;C:/Users/Harmani Technologies/.gradle/caches/transforms-3/35d21a4745af8972ea2db1d57f09e048/transformed/versionedparcelable-1.1.1-api.jar;C:/Users/Harmani Technologies/.gradle/caches/modules-2/files-2.1/androidx.collection/collection/1.1.0/1f27220b47669781457de0d600849a5de0e89909/collection-1.1.0.jar;C:/Users/Harmani Technologies/.gradle/caches/transforms-3/22d0f0737d63a122ec1d3e4d004d1e4f/transformed/lifecycle-viewmodel-2.3.1-api.jar;C:/Users/Harmani Technologies/.gradle/caches/transforms-3/0e5e7f3f0091276f1f64c216591149c6/transformed/interpolator-1.0.0-api.jar;C:/Users/Harmani Technologies/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation/1.3.0/21f49f5f9b85fc49de712539f79123119740595/annotation-1.3.0.jar;C:/Users/Harmani Technologies/.gradle/caches/transforms-3/2885186121729b0f5cba295825be9292/transformed/jetified-annotation-experimental-1.1.0-api.jar;C:/Users/Harmani Technologies/.gradle/caches/transforms-3/5b1f226cbeab3eddbf87444b1d6a4055/transformed/jetified-tracing-1.0.0-api.jar;C:/Users/Harmani Technologies/.gradle/caches/transforms-3/2ac2c5ccd5323f4b3d2cf83f4c5c1529/transformed/jetified-kotlin-stdlib-1.7.10.jar;C:/Users/Harmani Technologies/.gradle/caches/transforms-3/90bd16b3c5b449eb0c6a435e33951c02/transformed/jetified-kotlin-stdlib-common-1.7.10.jar;C:/Users/Harmani Technologies/.gradle/caches/transforms-3/5fb7f9219fb72568f97f90bcdd949bcf/transformed/jetified-annotations-13.0.jar;C:/Users/Harmani Technologies/AppData/Local/Android/Sdk/platforms/android-32/android.jar;C:/Users/Harmani Technologies/AppData/Local/Android/Sdk/build-tools/30.0.3/core-lambda-stubs.jar" />
+          <option name="noStdlib" value="true" />
+          <option name="noReflect" value="true" />
+          <option name="moduleName" value="qr_code_scanner_debug" />
+          <option name="friendPaths">
+            <array>
+              <option value="$MODULE_DIR$/../../../../build/qr_code_scanner/tmp/kotlin-classes/debug" />
+              <option value="$MODULE_DIR$/../../../../build/qr_code_scanner/intermediates/javac/debug/classes" />
+              <option value="$MODULE_DIR$/../../../../build/qr_code_scanner/intermediates/compile_library_classes_jar/debug/classes.jar" />
+            </array>
+          </option>
+          <option name="languageVersion" value="1.7" />
+          <option name="apiVersion" value="1.7" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="pluginClasspaths">
+            <array />
+          </option>
+          <option name="errors">
+            <ArgumentParseErrors />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebugSources" />
+        <afterSyncTasks>
+          <task>generateDebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/qr_code_scanner-1.0.1/android/src/main/res;file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/qr_code_scanner-1.0.1/android/src/debug/res;file://$MODULE_DIR$/../../../../build/qr_code_scanner/generated/res/rs/debug;file://$MODULE_DIR$/../../../../build/qr_code_scanner/generated/res/resValues/debug" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/qr_code_scanner-1.0.1/android/src/androidTest/res;file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/qr_code_scanner-1.0.1/android/src/androidTestDebug/res;file://$MODULE_DIR$/../../../../build/qr_code_scanner/generated/res/rs/androidTest/debug;file://$MODULE_DIR$/../../../../build/qr_code_scanner/generated/res/resValues/androidTest/debug" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+        <option name="PROJECT_TYPE" value="1" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/qr_code_scanner-1.0.1/android/src/test" />
+    <content url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/qr_code_scanner-1.0.1/android/src/testDebug" />
+    <content url="file://$MODULE_DIR$/../../../../build/qr_code_scanner/generated/ap_generated_sources/debugUnitTest/out" />
+    <orderEntry type="jdk" jdkName="Android API 32 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="android.qr_code_scanner.main" scope="TEST" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.flutter:flutter_embedding_debug:1.0.0-45f6e009110df4f34ec2cf99f63cf73b71b7a420" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-android:1.5.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.5.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.5.30" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.7.10" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.zxing:core:3.5.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-common-java8:2.4.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-common:2.4.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.arch.core:core-common:2.1.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.collection:collection:1.1.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.annotation:annotation:1.3.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.7.10" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.7.10" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.window:window-java:1.0.0-beta04@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.window:window:1.0.0-beta04@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.journeyapps:zxing-android-embedded:4.3.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.appcompat:appcompat:1.4.2@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.fragment:fragment:1.3.6@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.activity:activity:1.2.4@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.appcompat:appcompat-resources:1.4.2@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.drawerlayout:drawerlayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.viewpager:viewpager:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.loader:loader:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.vectordrawable:vectordrawable-animated:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.vectordrawable:vectordrawable:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.customview:customview:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.core:core:1.7.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-runtime:2.4.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-livedata:2.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.3.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.cursoradapter:cursoradapter:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.savedstate:savedstate:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.arch.core:core-runtime:2.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.3.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.interpolator:interpolator:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.annotation:annotation-experimental:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.tracing:tracing:1.0.0@aar" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="android.qr_code_scanner.main" />
+</module>

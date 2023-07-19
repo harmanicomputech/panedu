@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">605301473187-is1kv253jtskvre4kth2j5qah3c7u7qr.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">605301473187</string>
+    <string name="google_api_key" translatable="false">AIzaSyATPLzWzOOv7W9mx908HE4KWzU7Ulk21Lg</string>
+    <string name="google_app_id" translatable="false">1:605301473187:android:f5bd67d5656ae50e052416</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyATPLzWzOOv7W9mx908HE4KWzU7Ulk21Lg</string>
+    <string name="google_storage_bucket" translatable="false">pan-edu-app.appspot.com</string>
+    <string name="project_id" translatable="false">pan-edu-app</string>
+</resources>
