@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>637648671617-b869llovsc1amje80q9p2vr4igbs16j4.apps.googleusercontent.com</string>
+	<string>605301473187-32fs7h52a0bsl2mjophjhse77qfovbjo.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.637648671617-b869llovsc1amje80q9p2vr4igbs16j4</string>
+	<string>com.googleusercontent.apps.605301473187-32fs7h52a0bsl2mjophjhse77qfovbjo</string>
 	<key>API_KEY</key>
-	<string>AIzaSyBJUFTr7bV9Sy1xmxXhy2JaPjM5veuOg6g</string>
+	<string>AIzaSyD3Va2e8iE2pxttu1kV8cEZAGx5mZo38UY</string>
 	<key>GCM_SENDER_ID</key>
-	<string>637648671617</string>
+	<string>605301473187</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.mighty.web</string>
+	<string>com.harmani.paneduapp</string>
 	<key>PROJECT_ID</key>
-	<string>mighty-web</string>
+	<string>pan-edu-app</string>
 	<key>STORAGE_BUCKET</key>
-	<string>mighty-web.appspot.com</string>
+	<string>pan-edu-app.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,6 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:637648671617:ios:916516cfbfc2f796ee0e80</string>
+	<string>1:605301473187:ios:daa65b899bf9a49c052416</string>
 </dict>
 </plist>
