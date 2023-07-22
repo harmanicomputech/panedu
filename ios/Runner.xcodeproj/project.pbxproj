@@ -209,24 +209,7 @@
 			productReference = 97C146EE1CF9000F007C117D /* Runner.app */;
 			productType = "com.apple.product-type.application";
 		};
-		FF8FC22C262AA58700C44A65 /* OneSignalNotificationServiceExtension */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = FF8FC235262AA58700C44A65 /* Build configuration list for PBXNativeTarget "OneSignalNotificationServiceExtension" */;
-			buildPhases = (
-				E1AAD9291F3C68825D664A79 /* [CP] Check Pods Manifest.lock */,
-				FF8FC229262AA58700C44A65 /* Sources */,
-				FF8FC22A262AA58700C44A65 /* Frameworks */,
-				FF8FC22B262AA58700C44A65 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = OneSignalNotificationServiceExtension;
-			productName = OneSignalNotificationServiceExtension;
-			productReference = FF8FC22D262AA58700C44A65 /* OneSignalNotificationServiceExtension.appex */;
-			productType = "com.apple.product-type.app-extension";
-		};
+		
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
